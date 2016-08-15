@@ -1,0 +1,1 @@
+A very simple implementation of [async](https://github.com/caolan/async)'s `series`.
